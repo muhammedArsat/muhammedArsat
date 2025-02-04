@@ -40,8 +40,8 @@ I'm a Computer Science Engineering student passionate about software development
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/muhammedArsat)
 - [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/) (optional)
-- [Portfolio](https://ars.netlify.app) (optional)
+- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/muhammedarsath-c-n-62a49625a/) 
+- [Portfolio](https://ars.netlify.app) 
 
 ---
 

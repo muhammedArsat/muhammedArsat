@@ -33,9 +33,6 @@ I'm a Computer Science Engineering student passionate about software development
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedArsat&layout=compact&theme=radical)
 
-## 🧑‍💻 LeetCode Progress
-
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=arsath__21&theme=dark)
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/muhammedArsat)

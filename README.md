@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammed Arsath CN] 👋
+# Hi there, I'm Muhammed Arsath CN 👋
 
 I'm a Computer Science Engineering student passionate about software development and problem-solving. I enjoy working on full-stack projects and continuously learning new technologies.
 
@@ -39,8 +39,8 @@ I'm a Computer Science Engineering student passionate about software development
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/muhammedArsat)
-- [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
-- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/muhammedarsath-c-n-62a49625a/) 
+- [LeetCode](https://leetcode.com/arsath__21)
+- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/muhammedarsath-c-n-62a49625a) 
 - [Portfolio](https://ars.netlify.app) 
 
 ---

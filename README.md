@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Muhammed Arsath CN] 👋
 
 I'm a Computer Science Engineering student passionate about software development and problem-solving. I enjoy working on full-stack projects and continuously learning new technologies.
 
@@ -29,19 +29,19 @@ I'm a Computer Science Engineering student passionate about software development
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedArsat&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedArsat&layout=compact&theme=radical)
 
 ## 🧑‍💻 LeetCode Progress
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=YOUR_LEETCODE_USERNAME&theme=dark)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=arsath__21&theme=dark)
 
 ## 🔗 Connect with Me
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+- [GitHub](https://github.com/muhammedArsat)
 - [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
 - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/) (optional)
-- [Portfolio](https://YOUR_PORTFOLIO_LINK) (optional)
+- [Portfolio](https://ars.netlify.app) (optional)
 
 ---
 

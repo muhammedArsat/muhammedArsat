@@ -35,7 +35,7 @@ I'm a Computer Science Engineering student passionate about software development
 
 ## 🧑‍💻 LeetCode Progress
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=arsath__21&theme=dark)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=arsath_21&theme=dark)
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/muhammedArsat)

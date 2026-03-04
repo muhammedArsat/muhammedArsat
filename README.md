@@ -10,6 +10,8 @@ I'm a Computer Science Engineering student passionate about software development
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/Javascript-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

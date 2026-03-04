@@ -2,8 +2,6 @@
 
 I'm a Computer Science Engineering student passionate about software development and problem-solving. I enjoy working on full-stack projects and continuously learning new technologies.
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace with your preferred GIF -->
-
 ## 🛠️ Skills
 
 ### Programming Languages
